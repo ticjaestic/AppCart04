@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AppCart04/AppCart04.iml" filepath="$PROJECT_DIR$/AppCart04/AppCart04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AppCart04/AppCart04-AppCart04.iml" filepath="$PROJECT_DIR$/AppCart04/AppCart04-AppCart04.iml" />
       <module fileurl="file://$PROJECT_DIR$/AppCart04Project.iml" filepath="$PROJECT_DIR$/AppCart04Project.iml" />
     </modules>
   </component>
